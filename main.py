@@ -1,3 +1,3 @@
 import CamelLIB
 print('Hello camel')
-CamelAge=int(input())
+CamelAge=int(input('Введите возраст вашего верблюда...'))
